@@ -8,3 +8,5 @@ license text.
 
 ## FreeCodeCamp Info
 This webpage was developed for FreeCodeCamp's [Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) project.
+
+Note that on this version 2 FreeCodeCamp tests **do not pass for aesthetic reasons**
